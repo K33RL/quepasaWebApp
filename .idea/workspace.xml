@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f3bb6fc-e7ee-43da-890a-2abb8713dde0" name="Default Changelist" comment="">
+    <list default="true" id="3f3bb6fc-e7ee-43da-890a-2abb8713dde0" name="Default Changelist" comment="upload project">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quePasaRepo" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -95,7 +97,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\kpere\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -112,6 +114,8 @@
       <path value="$PROJECT_DIR$/../quePasaRepo" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="upload project" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="182" key="#Notifications" timestamp="1579223861218">
@@ -134,10 +138,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="380" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1579446481035" />
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1579451130655">
+    <state x="614" y="115" key="CommitChangelistDialog2" timestamp="1579453391136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579451130655" />
+    <state x="614" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579453391136" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1579453205532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579453205532" />
     <state x="842" y="414" width="260" height="212" key="Github.ShareDialog" timestamp="1579289242974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,17 +190,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="382" y="139" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579451840031" />
-    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579452093561">
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579453187780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579452093561" />
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579453187780" />
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579289296089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579289296089" />
-    <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1579289164820">
+    <state x="790" y="311" width="404" height="621" key="svn.repositoryBrowser" timestamp="1579452532544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="790" y="311" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1579289164820" />
+    <state x="790" y="311" width="404" height="621" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1579452532544" />
+    <state x="798" y="397" key="svn4idea.import.options" timestamp="1579452429028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="798" y="397" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1579452429028" />
   </component>
 </project>
