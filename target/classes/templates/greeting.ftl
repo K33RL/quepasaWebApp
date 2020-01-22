@@ -1,6 +1,6 @@
 <#import "parts/common.ftl" as c>
 
 <@c.page>
-<div>hi, stranger</div>
-<a href="/main">welcome</a>
+<h5>Hi stranger</h5>
+<div>This is a simple clone of some resources from internet.</div>
 </@c.page>
