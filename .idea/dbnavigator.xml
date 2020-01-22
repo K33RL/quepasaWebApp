@@ -23,21 +23,14 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes>
-      <connection connection-id="6ea891bc-3178-4d1f-86b8-9f9752094af3">
-        <schema name="information_schema" object-types="constraint, sequence, column, view, function, table, dataset trigger" />
-        <schema name="pg_catalog" object-types="sequence, column, view, function, table" />
-        <schema name="pg_temp_1" object-types="sequence, view, function, table" />
-        <schema name="public" object-types="sequence, view, function, table" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="543da79f-7da4-4a5b-8672-9bd3ded22004">
       <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
     <connection id="6ea891bc-3178-4d1f-86b8-9f9752094af3">
-      <console name="quepasa" type="STANDARD" schema="information_schema" session="Main" />
+      <console name="quepasa" type="STANDARD" schema="" session="Main" />
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
