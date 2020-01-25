@@ -2,29 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f3bb6fc-e7ee-43da-890a-2abb8713dde0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/domain/dto/CaptchaResponseDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/messageEdit.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/messageList.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/userMessages.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/quepasa/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/config/MvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/quepasa/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/config/WebSecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/quepasa/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/quepasa/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/controller/RegistrationController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/quepasa/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/quepasa/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/quepasa/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/quepasa/config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/quepasa/config/MvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/quepasa/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/quepasa/controller/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/quepasa/controller/RegistrationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/quepasa/controller/RegistrationController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/quepasa/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/quepasa/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/quepasa/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/quepasa/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/login.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/parts/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/parts/common.ftl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/parts/login.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/parts/login.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/navbar.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/navbar.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/security.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/security.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/quepasa.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/parts/navbar.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/parts/navbar.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/parts/security.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/parts/security.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/quepasa-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/quepasa-1.0-SNAPSHOT.jar.original" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579745749396</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added: bean validation&#10;encode password">
+      <created>1579816228389</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579816228389</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,10 +253,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="226" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579286529128" />
-    <state x="285" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1579813728746">
+    <state x="285" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1579971684770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="285" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579813728746" />
+    <state x="285" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579971684770" />
     <state x="756" y="380" width="408" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579446481035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,46 +277,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579289255270" />
-    <state width="914" height="247" key="GridCell.Tab.0.bottom" timestamp="1579815970608">
+    <state width="916" height="243" key="GridCell.Tab.0.bottom" timestamp="1579975989909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970608" />
-    <state width="914" height="247" key="GridCell.Tab.0.center" timestamp="1579815970608">
+    <state width="916" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989909" />
+    <state width="916" height="243" key="GridCell.Tab.0.center" timestamp="1579975989909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970608" />
-    <state width="914" height="247" key="GridCell.Tab.0.left" timestamp="1579815970608">
+    <state width="916" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989909" />
+    <state width="916" height="243" key="GridCell.Tab.0.left" timestamp="1579975989909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970608" />
-    <state width="914" height="247" key="GridCell.Tab.0.right" timestamp="1579815970608">
+    <state width="916" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989909" />
+    <state width="916" height="243" key="GridCell.Tab.0.right" timestamp="1579975989909">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970608" />
-    <state width="914" height="247" key="GridCell.Tab.1.bottom" timestamp="1579815970519">
+    <state width="916" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989909" />
+    <state width="916" height="243" key="GridCell.Tab.1.bottom" timestamp="1579975989856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970519" />
-    <state width="914" height="247" key="GridCell.Tab.1.center" timestamp="1579815970519">
+    <state width="916" height="243" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989856" />
+    <state width="916" height="243" key="GridCell.Tab.1.center" timestamp="1579975989856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970519" />
-    <state width="914" height="247" key="GridCell.Tab.1.left" timestamp="1579815970519">
+    <state width="916" height="243" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989856" />
+    <state width="916" height="243" key="GridCell.Tab.1.left" timestamp="1579975989856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970519" />
-    <state width="914" height="247" key="GridCell.Tab.1.right" timestamp="1579815970519">
+    <state width="916" height="243" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989856" />
+    <state width="916" height="243" key="GridCell.Tab.1.right" timestamp="1579975989856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="247" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579815970519" />
+    <state width="916" height="243" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579975989856" />
     <state x="382" y="139" key="SettingsEditor" timestamp="1579451840031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="382" y="139" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579451840031" />
-    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579787669676">
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579905322641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579787669676" />
+    <state x="183" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579905322641" />
     <state x="138" y="190" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579789896352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -321,10 +325,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579289296089" />
-    <state x="217" y="279" key="extract.method.dialog" timestamp="1579743133872">
+    <state x="217" y="279" key="extract.method.dialog" timestamp="1579975793110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="217" y="279" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579743133872" />
+    <state x="217" y="279" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579975793110" />
     <state x="186" y="152" key="refactoring.ChangeSignatureDialog" timestamp="1579738684722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
